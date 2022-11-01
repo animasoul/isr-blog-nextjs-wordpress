@@ -6,7 +6,7 @@ import Categories from './categories'
 
 export default function PostHeader({
   title,
-  // coverImage,
+  coverImage,
   date,
   author,
   categories,
